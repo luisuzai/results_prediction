@@ -1,4 +1,4 @@
-# Previsão de resultados de jogos através de dados  
+# Previsão de resultados de jogos por meio dos dados  
   
 Prevendo resultados de jogos através de resultados utilizando Machine Learning.
 
